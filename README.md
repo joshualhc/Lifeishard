@@ -1,0 +1,2 @@
+# Lifeishard
+trial and error
